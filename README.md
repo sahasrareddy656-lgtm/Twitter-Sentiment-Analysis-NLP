@@ -118,15 +118,18 @@ streamlit run app.py
 
 ### Home Page
 
-(Add Screenshot Here)
+<img width="899" height="383" alt="Screenshot 2026-06-13 170813" src="https://github.com/user-attachments/assets/54538af9-4afa-4ea4-b903-943c5b73ff7d" />
+
 
 ### Positive Prediction
 
-(Add Screenshot Here)
+<img width="887" height="386" alt="Screenshot 2026-06-13 170543" src="https://github.com/user-attachments/assets/14d6b109-d5c8-4e1a-9530-9916246132be" />
+
 
 ### Negative Prediction
 
-(Add Screenshot Here)
+<img width="901" height="380" alt="Screenshot 2026-06-13 170619" src="https://github.com/user-attachments/assets/3ea42970-8dc4-4f30-9401-aef11bf924d1" />
+
 
 ## Future Improvements
 
